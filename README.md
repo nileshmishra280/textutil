@@ -1,2 +1,2 @@
 # textutil
-text
+textUtil is a single page React application which helps us to manipulate,Edit text and many more thing to do...
